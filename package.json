@@ -1,0 +1,10 @@
+{
+  "name": "git-hub-api",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.585.0",
+    "@aws-sdk/lib-dynamodb": "^3.585.0",
+    "@octokit/rest": "^21.0.2"
+  }
+}
